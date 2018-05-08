@@ -5,5 +5,7 @@ public class TestIgnoreRule {
 		System.out.println("xzz");
 		System.out.println("xzz");
 		System.out.println("乱码问题");
+		System.out.println("UAT8编码");
+		System.out.println("修改");
 	}
 }
