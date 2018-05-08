@@ -2,6 +2,8 @@ package test;
 
 public class TestIgnoreRule {
 	public static void main(String[] args) {
-		System.out.println("²âÊÔºöÂÔ¹æÔò£¡");
+		System.out.println("xzz");
+		System.out.println("xzz");
+		System.out.println("ä¹±ç é—®é¢˜");
 	}
 }
